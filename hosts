@@ -1,0 +1,546 @@
+# SafeTelecom KosherOS Black list
+
+127.0.0.1 localhost
+
+# Prism
+127.0.0.1 medium.com
+127.0.0.1 www.opensource.org
+127.0.0.1 opensource.org
+127.0.0.1 daringfireball.net
+127.0.0.1 dribbble.com
+127.0.0.1 www.networkadvertising.org
+127.0.0.1 www.networkadvertising.org
+127.0.0.1 www.windowsazure.com
+
+# Aeroplan
+127.0.0.1 www.aeroplan.com
+
+# Toras Avigdor
+127.0.0.1 www.kolavigdor.com
+127.0.0.1 kinyanhamasechta.com
+127.0.0.1 www.shaschabura.org
+
+# Uber
+127.0.0.1 www.uber.com
+127.0.0.1 t.uber.com
+127.0.0.1 help.uber.com
+127.0.0.1 camo.githubusercontent.com
+127.0.0.1 github.com
+127.0.0.1 jakewharton.github.io
+127.0.0.1 google.github.io
+127.0.0.1 googlemaps.github.io
+127.0.0.1 bitbucket.org
+127.0.0.1 square.github.io
+127.0.0.1 www.chromium.org
+127.0.0.1 www.slf4j.org
+127.0.0.1 help.jumpbikes.com
+127.0.0.1 socialbicycles.zendesk.com
+127.0.0.1 privacy.uber.com
+
+# BMO
+127.0.0.1 www.bmo.com
+127.0.0.1 branchlocator.bmo.com
+127.0.0.1 www.cdic.ca
+127.0.0.1 www.onguardprotect.com
+
+# SwiftKey
+127.0.0.1 github.com
+127.0.0.1 source.android.com
+127.0.0.1 commons.apache.org
+127.0.0.1 code.google.com
+127.0.0.1 hc.apache.org
+127.0.0.1 android.googlesource.com
+127.0.0.1 developer.google.com
+127.0.0.1 gcc.gnu.org
+127.0.0.1 stlport.org
+127.0.0.1 www.stlport.org
+127.0.0.1 www.boost.org
+127.0.0.1 site.icu-project.org
+127.0.0.1 www.khronos.org
+127.0.0.1 facebook.github.io
+127.0.0.1 www.unicode.org
+127.0.0.1 twitter.com
+127.0.0.1 api.twitter.com
+
+# Citi Mobile
+127.0.0.1 online.citibank.com
+127.0.0.1 www.thankyou.com
+127.0.0.1 online.citi.com
+127.0.0.1 metrics1.citibank.com
+127.0.0.1 policies.google.com
+127.0.0.1 finapp.financialtools2.citi.com
+
+# Android Messages
+127.0.0.1 api.tenor.com
+127.0.0.1 media.tenor.com
+127.0.0.1 sticker-pa.googleapis.com
+
+# American Airlines
+127.0.0.1 www.aa.com
+
+# Outlook
+127.0.0.1 policies.oath.com
+
+# Air Canada
+127.0.0.1 www.aircanada.com
+127.0.0.1 m.aircanada.com
+127.0.0.1 www.catsa-acsta.gc.ca
+
+# Segway-Ninebot
+127.0.0.1 api4-ore.ninebot.cn
+127.0.0.1 www.ninebot.com
+127.0.0.1 www.ninebot.cn
+
+# British Airways
+127.0.0.1 www.linkedin.com
+127.0.0.1 plus.google.com
+127.0.0.1 www.britishairways.com
+127.0.0.1 www.accuweather.com
+
+# Google Pay
+127.0.0.1 www.walgreens.com
+127.0.0.1 payments.google.com
+
+# Comelit Visto
+127.0.0.1 vistodoorbell.com
+
+# CIBC
+127.0.0.1 www.cibc.com
+# 127.0.0.1 www.cibc.mobi
+
+#TD Canada
+127.0.0.1 www.tdcanadatrust.com
+127.0.0.1 www.td.com
+127.0.0.1 www.canada.ca
+
+# RBC Royal Bank - removed to support whitelisting
+#127.0.0.1 mobile.rbcroyalbank.com
+#127.0.0.1 www.rbcroyalbank.com
+#127.0.0.1 www.rbc.com
+
+developer# P$ Service Mobile
+www.passportparking.com
+
+# Crave Cafe
+# opened this for nesiya tova, lakeway, etc.
+# 127.0.0.1 maps.googleapis.com
+
+# The Score
+127.0.0.1 www.twitter.com
+127.0.0.1 rich-content.thescore.com
+127.0.0.1 analytics-tracker.thescore.com
+
+# March Madness
+127.0.0.1 agility.ncaa.com
+127.0.0.1 www.ncaa.com
+
+# ESPN Fantasy
+127.0.0.1 disneyprivacycenter.com
+127.0.0.1 w88.espn.com
+127.0.0.1 www.espn.com
+127.0.0.1 odb.outbrain.com
+127.0.0.1 twitter.com
+127.0.0.1 mvads.cdn.espn.com
+
+# 7 Eleven
+127.0.0.1 www.7-eleven.com
+ 
+# Chase
+127.0.0.1 ultimaterewardspoints.chase.com
+
+# MTA eTix
+127.0.0.1 www.masterpass.com
+
+# Lowes
+127.0.0.1 www.lowes.com
+127.0.0.1 www.getnetwise.org
+127.0.0.1 www.onguardonline.gov
+
+# Citizens Bank
+127.0.0.1 www.citizensbank.com
+
+# M&T Bank
+127.0.0.1 www.mtb.com
+127.0.0.1 wilmingtonfunds.com
+127.0.0.1 www.adobe.com
+127.0.0.1 m.mtb.com
+127.0.0.1 onlinebanking.mtb.com
+
+# Lose It!
+127.0.0.1 mobileweb.loseit.com
+127.0.0.1 thehow.loseit.com
+127.0.0.1 gateway.loseit.com
+
+# Discover
+127.0.0.1 www.discover.com
+127.0.0.1 card.discover.com
+127.0.0.1 secure.opinionlab.com
+127.0.0.1 www.amazon.com
+
+# YI Home Camera
+127.0.0.1 www.yitechnology.com
+127.0.0.1 store.yitechnology.com
+127.0.0.1 amzn.to
+127.0.0.1 www.aliexpress.com
+127.0.0.1 yicamerablog.yitechnology.com
+127.0.0.1 faq.us.xiaoyi.com
+
+# Pomegranate Supermarket
+127.0.0.1 www.thepompeopleonline.com
+127.0.0.1 thepompeople.com
+127.0.0.1 itunes.apple.com
+
+# Arlo
+127.0.0.1 arlo.netgear.com
+127.0.0.1 policy.arlo.com
+127.0.0.1 kb.arlo.com
+127.0.0.1 www.netgear.com
+127.0.0.1 www.arlo.com
+
+# Allstate
+127.0.0.1 blog.allstate.com
+
+# Google GMS login
+127.0.0.1 idp.touro.edu
+127.0.0.1 idp.fdu.edu
+
+# Bird
+127.0.0.1 bird.zendesk.com
+127.0.0.1 www.bird.co
+127.0.0.1 jobs.lever.co
+127.0.0.1 birdrides.typeform.com
+127.0.0.1 delivery.bird.co
+
+# Truecaller
+127.0.0.1 images1.truecaller.com
+127.0.0.1 s3-media1.fl.yelpcdn.com
+127.0.0.1 s3-media2.fl.yelpcdn.com
+127.0.0.1 s3-media3.fl.yelpcdn.com
+127.0.0.1 s3-media4.fl.yelpcdn.com
+127.0.0.1 s3-media5.fl.yelpcdn.com
+
+# Peppermint Supermarket
+127.0.0.1 www.localize.co.il
+127.0.0.1 www.nagish.li
+
+# Lose It!
+127.0.0.1 mobileweb.loseit.com
+127.0.0.1 thehow.loseit.com
+127.0.0.1 gateway.loseit.com
+
+# Dunkin Donuts
+127.0.0.1 www.dunkindonuts.com
+
+# ClassDojo
+127.0.0.1 www.classdojo.com
+127.0.0.1 classdojo.zendesk.com
+
+# VMWare Boxer
+127.0.0.1 support.getboxer.com
+127.0.0.1 www.vmware.com
+127.0.0.1 www.microsoft.com
+
+# Simple
+127.0.0.1 www.simple.com
+
+# Google Maps
+127.0.0.1 developers.google.com
+127.0.0.1 www.googleadservices.com
+127.0.0.1 ad.doubleclick.net
+127.0.0.1 adservice.google.com
+127.0.0.1 lh1.googleusercontent.com
+127.0.0.1 lh2.googleusercontent.com
+127.0.0.1 lh3.googleusercontent.com
+127.0.0.1 lh4.googleusercontent.com
+127.0.0.1 lh5.googleusercontent.com
+127.0.0.1 lh6.googleusercontent.com
+127.0.0.1 lh1.ggpht.com
+127.0.0.1 lh2.ggpht.com
+127.0.0.1 lh3.ggpht.com
+127.0.0.1 lh4.ggpht.com
+127.0.0.1 lh5.ggpht.com
+127.0.0.1 lh6.ggpht.com
+127.0.0.1 geo0.ggpht.com
+127.0.0.1 geo1.ggpht.com
+127.0.0.1 geo2.ggpht.com
+127.0.0.1 geo3.ggpht.com
+
+# Signature Bank NY
+127.0.0.1 www.signatureny.com
+127.0.0.1 signatureny.com
+
+# Citymapper
+127.0.0.1 www.citymapper.com
+127.0.0.1 www.allaboutcookies.org
+# Removed to enable Google Sheets: 127.0.0.1 docs.google.com
+
+# Blackvue
+# 127.0.0.1 www.blackvue.com - needed for firmware updates. must block activity.
+127.0.0.1 delta1.blackviewcloud.com
+127.0.0.1 www.openssl.org
+127.0.0.1 www.apache.org
+127.0.0.1 zxing.github.io
+127.0.0.1 www.gnu.org
+127.0.0.1 www.ffmpeg.org
+
+# Android Messages (old)
+127.0.0.1 1.bp.blogspot.com
+127.0.0.1 2.bp.blogspot.com
+127.0.0.1 3.bp.blogspot.com
+127.0.0.1 4.bp.blogspot.com
+127.0.0.1 5.bp.blogspot.com
+
+# Juno
+127.0.0.1 gojuno.com
+127.0.0.1 www.gojuno.com
+127.0.0.1 carbonfund.org
+
+# GroupMe
+127.0.0.1 inline-downloader.groupme.com
+127.0.0.1 media-proxy.groupme.com
+127.0.0.1 i.imgur.com
+127.0.0.1 i.ytimg.com
+
+# Navionics
+127.0.0.1 navionics.secure.force.com
+127.0.0.1 navionics.force.com
+127.0.0.1 www.navionics.com
+
+# HSBC
+127.0.0.1 www.hsbc.com
+127.0.0.1 www.us.hsbc.com
+
+# Mobile Passport (CBP)
+127.0.0.1 www.identogo.com
+127.0.0.1 mobilepassport.us
+127.0.0.1 www.mobilepassport.us
+127.0.0.1 www.fastportpassport.co
+127.0.0.1 www.cbp.gov
+127.0.0.1 cbp.gov
+127.0.0.1 www.aci.aero
+127.0.0.1 www.boeing.com
+127.0.0.1 www.porteverglades.net
+
+# Life360
+127.0.0.1 www.life360.com
+
+# Gett
+127.0.0.1 gett.com
+
+# Southwest
+127.0.0.1 creditcards.chase.com
+
+# Alaska Air
+127.0.0.1 www.alaskaair.com
+
+# United
+127.0.0.1 www.united.com
+
+# PayPal
+#127.0.0.1 www.paypal.com
+
+# Priority Pass
+127.0.0.1 www.prioritypass.com
+
+# Fly Delta
+127.0.0.1 www.delta.com
+
+# TD Ameritrade
+127.0.0.1 invest.ameritrade.com
+
+# ShiraLi
+127.0.0.1 www.shiraliapp.com
+
+# Bagel Dlox
+127.0.0.1 maps.google.com
+
+# D-Lux
+127.0.0.1 wordpress.com
+127.0.0.1 automattic.com
+
+# Chick N Chuck
+127.0.0.1 www.merchantechapps.com
+127.0.0.1 mintandmarket.com
+
+# OurPact
+127.0.0.1 ourpact.com
+
+# ParkNYC
+127.0.0.1 us.parkmobile.com
+127.0.0.1 parknyc.zendesk.com
+#127.0.0.1 www.google-analytics.com
+#127.0.0.1 services.google.com
+#127.0.0.1 encrypted-tbn0.gstatic.com
+127.0.0.1 parkmobile.us
+
+# Moovit
+127.0.0.1 moovit.me
+127.0.0.1 moovitapp.com
+127.0.0.1 bemyeyes.com
+127.0.0.1 moovitapp.zendesk.com
+127.0.0.1 bit.ly
+
+# Waze
+127.0.0.1 kartverket.no
+127.0.0.1 creativecommons.org
+127.0.0.1 data.norge.no
+127.0.0.1 m.facebook.com
+127.0.0.1 www.twitter.com
+127.0.0.1 social-na.waze.com
+127.0.0.1 www.waze.com
+127.0.0.1 client-assets.waze.com
+
+# Lyft
+127.0.0.1 www.lyft.com
+127.0.0.1 help.lyft.com
+127.0.0.1 www.apple.com
+127.0.0.1 www.adr.org
+
+# Capital One
+127.0.0.1 creditwise.capitalone.com
+127.0.0.1 www.capitalone.com
+127.0.0.1 servicing.capitalone.com
+
+# Microsoft Word, Excel
+127.0.0.1 go.microsoft.com
+127.0.0.1 privacy.microsoft.com
+127.0.0.1 account.live.com
+127.0.0.1 user.weiyun.com
+127.0.0.1 vault.netvoyage.com
+127.0.0.1 us-partner-integrations.egnyte.com
+127.0.0.1 dropbox.com
+127.0.0.1 www.box.com
+127.0.0.1 account.box.com
+127.0.0.1 www.bing.com
+127.0.0.1 uci.officeapps.live.com
+
+# M&T Bank
+127.0.0.1 www.mtb.com
+127.0.0.1 resources.mtb.com
+127.0.0.1 asset.mtb.com
+127.0.0.1 onlinebanking.mtb.com
+
+# Genius Scan
+127.0.0.1 android.help.thegrizzlylabs.com
+
+# Verizon Messages
+127.0.0.1 www.verizon.com
+127.0.0.1 www.vzw.com
+127.0.0.1 www.verizonwireless.com
+127.0.0.1 www.verizon.com
+127.0.0.1 www.glympse.com
+127.0.0.1 www.yelp.com
+127.0.0.1 policies.yahoo.com
+127.0.0.1 m.search.yahoo.com
+127.0.0.1 info.yahoo.com
+127.0.0.1 analytics.localytics.com
+127.0.0.1 m.youtube.com
+127.0.0.1 www.youtube.com
+127.0.0.1 youtube.com
+127.0.0.1 s3-media1.fl.yelpcdn.com
+127.0.0.1 s3-media2.fl.yelpcdn.com
+127.0.0.1 s3-media3.fl.yelpcdn.com
+127.0.0.1 s3-media4.fl.yelpcdn.com
+127.0.0.1 s3-media5.fl.yelpcdn.com
+127.0.0.1 s3-media6.fl.yelpcdn.com
+127.0.0.1 aol.com
+127.0.0.1 www.aol.com
+127.0.0.1 privacy.aol.com
+127.0.0.1 www.hhs.gov
+127.0.0.1 giphy.com
+127.0.0.1 www.apache.org
+127.0.0.1 apache.org
+127.0.0.1 emojione.com
+127.0.0.1 www.emojione.com
+127.0.0.1 aniways.com
+127.0.0.1 www.getkanvas.com
+127.0.0.1 cse.google.com
+127.0.0.1 js.stripe.com
+
+# Textra
+127.0.0.1 api.giphy.com
+127.0.0.1 media0.giphy.com
+127.0.0.1 media1.giphy.com
+127.0.0.1 media2.giphy.com
+127.0.0.1 media3.giphy.com
+127.0.0.1 ads4.textra.me
+127.0.0.1 ads14.textra.me
+
+# WhatsApp
+127.0.0.1 wa.tenor.co
+127.0.0.1 media.tenor.co
+127.0.0.1 www.bingapis.com
+127.0.0.1 tse1.mm.bing.net
+127.0.0.1 tse2.mm.bing.net
+
+# iVMS-4500
+127.0.0.1 www.ezvizlife.com
+127.0.0.1 ezvizlife.com
+
+# Ads
+127.0.0.1 ads.flurry.com
+127.0.0.1 adlog.flurry.com
+127.0.0.1 data.flurry.com
+127.0.0.1 cdn.flurry.com
+127.0.0.1 s.yimg.com
+127.0.0.1 beap.gemini.yahoo.com
+127.0.0.1 track.inpwrd.com
+127.0.0.1 bs.serving-sys.com
+127.0.0.1 t.myvisualiq.net
+127.0.0.1 graph.facebook.com
+127.0.0.1 config.inmobi.com
+127.0.0.1 sdktm.w.inmobi.com
+127.0.0.1 i.w.inmobi.com
+127.0.0.1 ad.doubleclick.net
+127.0.0.1 pixel.adsafeprotected.com
+127.0.0.1 static.adsafeprotected.com
+
+# Runkeeper
+127.0.0.1 store.runkeeper.com
+127.0.0.1 runkeeper.com
+
+# Self Point Supermarkets
+127.0.0.1 www.self-point.com
+127.0.0.1 instagram.com
+127.0.0.1 www.instagram.com
+127.0.0.1 gourmetglatt.com
+
+# KosherGPS
+127.0.0.1 pagead2.googleadservices.com
+127.0.0.1 googleads.g.doubleclick.net
+127.0.0.1 pagead2.googlesyndication.com
+
+# Blackboard
+127.0.0.1 help.blackboard.com
+127.0.0.1 www.blackboard.com
+
+# HERE WeGo
+127.0.0.1 radiomap.vcdn.pos.here.com
+127.0.0.1 places.hybrid.api.here.com
+127.0.0.1 download.vcdn.data.here.com
+127.0.0.1 places.download.vcdn.data.here.com
+127.0.0.1 ads.mopub.com
+127.0.0.1 mpx.mopub.com
+127.0.0.1 mopub-east2-bidder.manage.com
+
+# Dropbox
+127.0.0.1 www.dropbox.com
+
+# Fulton Bank of NJ
+127.0.0.1 www.fultonbanknjonlinebnk.com 
+
+# BofA
+127.0.0.1 www1.bac-assets.com
+127.0.0.1 www.bankofamerica.com
+127.0.0.1 secure.opinionlab.com
+
+# Random
+127.0.0.1 support.google.com
+127.0.0.1 realtimesupport.clients6.google.com
+127.0.0.1 play.google.com
+127.0.0.1 www.wunderlist.com
+127.0.0.1 secure.meetup.com
+#127.0.0.1 www.evernote.com
+127.0.0.1 livestream.com
+
+::1    ip6-localhost
